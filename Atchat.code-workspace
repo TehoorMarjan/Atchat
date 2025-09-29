@@ -9,5 +9,29 @@
 			"path": "Firmware/Atchat"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"thread": "cpp",
+			"bitset": "cpp",
+			"chrono": "cpp",
+			"codecvt": "cpp",
+			"string_view": "cpp",
+			"algorithm": "cpp",
+			"random": "cpp",
+			"format": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"numeric": "cpp",
+			"ranges": "cpp",
+			"valarray": "cpp",
+			"core": "cpp",
+			"*.inc": "cpp",
+			"*.isph": "cpp",
+			"boundingbox": "cpp",
+			"math": "cpp",
+			"shape": "cpp",
+			"texture": "cpp",
+			"complex": "cpp"
+		}
+	}
 }
