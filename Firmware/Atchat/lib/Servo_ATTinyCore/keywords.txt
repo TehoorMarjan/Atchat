@@ -1,26 +1,24 @@
 #######################################
-# Syntax Coloring Map For ATCommands
+# Syntax Coloring Map Servo
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-at_command_t	KEYWORD1
+Servo	KEYWORD1	Servo
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
+attach	KEYWORD2
+detach	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+attached	KEYWORD2
+writeMicroseconds	KEYWORD2
+readMicroseconds	KEYWORD2
 
-begin	KEYWORD2
-update	KEYWORD2
-next	KEYWORD2
-hasNext KEYWORD2
-
-#######################################
-# Instances (KEYWORD2)
-#######################################
-ATCommands	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
